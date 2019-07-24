@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Issue Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="t_no">Tokan No.</string>
+
+    <string name="line"> This is <strike> strike-thru</strike> </string>
+    <string name="c_location">Company Location</string>
+    <string name="qty_pro_no">Quality \n Project No.</string>
+    <string name="qty_pro_no1">Quality Project No.</string>
+    <string name="seam_no">Seam No</string>
+    <string name="aws_class">AWS Class</string>
+    <string name="shop">Shop</string>
+    <string name="station">Station</string>
+    <string name="welder_psno">Welder PSNO</string>
+    <string name="date_time">Req. Date / Time</string>
+    <string name="sequence_no">Sequence No</string>
+    <string name="title_activity_emp__detalis">Employee Details</string>
+    <string name="dpt_code">Department</string>
+    <string name="docno">DOCNO</string>
+    <string name="toLoc">to Location</string>
+    <string name="fromLoc">From Location</string>
+    <string name="empName">Employee Name</string>
+    <string name="empCode">Employee Code</string>
+    <string name="traDate">Trandate</string>
+    <string name="notation">Narration</string>
+    <string name="item">Items</string>
+    <string name="brach">Branch Code</string>
+    <string name="unit">Unit</string>
+    <string name="stks">Total Stock</string>
+    <string name="qty">Qty</string>
+    <string name="brachs">Branch Code</string>
+    <string name="title_activity_item__details">Item Details</string>
+    <string name="location">Location</string>
+    <string name="srno">SRNO</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_sample">Sample</string>
+    <string name="button">Button</string>
+    <string name="QRDetails">QR Details</string>
+    <string name="to_stks">Batchwise Stock</string>
+    <string name="deactive">
+        Token is Deactivate OR \n
+     Previous Tokan is Closed because of \n Generate New Tokan
+    </string>
+    <string name="wrongs">Input Qty. And Adjustment Qty. is not Match</string>
+    <string name="batch">Select batch no.</string>
+    <string name="batch_no">Batch No</string>
+</resources>
