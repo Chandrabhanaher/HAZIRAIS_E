@@ -1,8 +1,8 @@
 package com.example.ugcch.hazira;
 
 public class Config {
-    //http://150.129.172.3:801/hazira_ie_e/
-    public static final String API = "http://150.129.172.3/hazira_ie_e/";
+    
+    public static final String API = "http://localhost//";
     public static final String EMP_DETAILS = API +"emp_details.php";
     public static final String ITEM_LIST = API +"items3.php";
     public static final String DONO = API +"max_doc_no.php";
